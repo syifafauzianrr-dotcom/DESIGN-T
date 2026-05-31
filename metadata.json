@@ -1,0 +1,6 @@
+{
+  "name": "Monevy",
+  "description": "Aplikasi Pengelolaan Keuangan Mahasiswa KIP-Kuliah (KIPK) untuk membantu mahasiswa mengelola anggaran, pencatatan transaksi, target tabungan, laporan keuangan, serta dashboard admin dan monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
